@@ -11,5 +11,6 @@ Console.WriteLine("this is for master");
 Console.WriteLine("aded this from remote");
 Console.WriteLine("aded this from remote1");
 Console.WriteLine("aded this from remote1 to update");
+Console.WriteLine("aded this from local to push");
 
 
