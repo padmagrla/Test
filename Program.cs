@@ -9,5 +9,6 @@ Console.WriteLine("this is {0}",s0);
 Console.WriteLine("this is",s0);
 Console.WriteLine("this is for master");
 Console.WriteLine("aded this from remote");
+Console.WriteLine("aded this from remote1");
 
 
